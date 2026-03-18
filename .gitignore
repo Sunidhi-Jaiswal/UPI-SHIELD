@@ -1,0 +1,6 @@
+node_modules/
+ml-service/venv/
+ml-service/__pycache__/
+.env
+*.dll
+*.pkl
